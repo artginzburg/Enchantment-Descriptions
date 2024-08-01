@@ -78,5 +78,15 @@
   "enchantment.endlessbiomes.shared_pain": "When a mob is killed any excess damage will be dealt to nearby mobs.",
 
   "__support_stallwart_dungeons": "https://www.curseforge.com/minecraft/mc-mods/stalwart-dungeons",
-  "enchantment.stalwart_dungeons.thunder_strike.desc": "Gives hammers the ability to summon lightning."
+  "enchantment.stalwart_dungeons.thunder_strike.desc": "Gives hammers the ability to summon lightning.",
+
+  "__support_butcher": "https://modrinth.com/mod/butchery",
+  "enchantment.butcher.butcherenchantment.desc": "Killing eligible mobs drops their corpse.",
+
+  "__support_blockswapper": "https://modrinth.com/mod/block-swapper",
+  "enchantment.blockswapper.excavating.desc": "Allows replacing of blocks with air.",
+
+  "__support_cardiac": "https://modrinth.com/mod/cardiac",
+  "enchantment.cardiac.lifesteal.desc": "Killing mobs drops more healing orbs."
+
 }
